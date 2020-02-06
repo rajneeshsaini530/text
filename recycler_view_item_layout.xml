@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5sp"
+        android:layout_marginBottom="5sp"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:textSize="18dp"
+        android:padding="10dp"
+        android:textColor="@color/tutorial_btn_white"
+        android:id="@+id/button_javaee"
+        android:background="@drawable/btn_design"
+        />
+
+</LinearLayout>
